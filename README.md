@@ -1,4 +1,5 @@
 # AI Email Agent Platform
+<img width="1345" height="678" alt="image" src="https://github.com/user-attachments/assets/1989978e-ae65-4d9d-89f8-850fb1faa1e2" />
 
 Production-grade scaffold for an AI-native Gmail operating system: FastAPI, LangGraph, Groq model routing, Gmail/Calendar tools, PostgreSQL memory, Chroma semantic search, and a Next.js 15 workspace UI.
 
